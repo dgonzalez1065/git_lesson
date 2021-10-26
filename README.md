@@ -2,4 +2,4 @@
 
 ### creando un conflicto en Git
 
-Esto es un mensaje en nuestra rada de conflicto.
+Esto es un mensaje en la rama main.
